@@ -1,0 +1,12 @@
+Flask
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+
+
+# configure user name using command "git config --global user.name "ramanji272""
+# Check whether it got activated or not with "git config --global user.name" It will display "ramanji272"
+# Likewise email
+# If you would like add entire folder to github use command "git add .". It will add entire folder to git. After that check with "git status" command.
